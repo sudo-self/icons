@@ -1,5 +1,7 @@
 # Logo
-[![Deploy static content to Pages](https://github.com/sudo-self/icons/actions/workflows/static.yml/badge.svg)](https://github.com/sudo-self/icons/actions/workflows/static.yml)
+<a href="https://sudo-self.github.io/3d-logo/">3D logo</a>
+
+[![Deploy static content to Pages](https://github.com/sudo-self/icons/actions/workflows/static.yml/badge.svg)](https://github.com/sudo-self/icons/actions/workflows/static.yml)<hr>
 
 ![JesseJesse Logo](https://github.com/user-attachments/assets/b9d42459-f65b-4555-b37a-c451f3c93874)
 
